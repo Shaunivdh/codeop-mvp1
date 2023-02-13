@@ -37,3 +37,4 @@ const [ingredients,setIngredients] = useState([]);
 
 
 export default RecipeCard;
+
